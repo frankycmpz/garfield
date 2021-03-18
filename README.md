@@ -6,4 +6,4 @@ This was my first success with making a Twitter bot. It's overall very straightf
 At first, this bot was web-based, meaning the database lived online. However, with the acquisition of Paws Inc. by Viacom, the bot changed gears.
 
 ## Lastly...
-To view this bot in action, [click here.](twitter.com/garfieldpicture)
+To view this bot in action, [click here.](http://www.twitter.com/garfieldpicture)
