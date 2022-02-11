@@ -4,9 +4,6 @@
 # all rights reserved
 
 import random
-from urllib.error import HTTPError
-from urllib.request import urlretrieve
-import urllib.request
 import tweepy
 
 #garfield account keys
@@ -48,13 +45,10 @@ def urlGenerator():
     else: day = random.randint(1,28)
 
     '''
-
-
     #specific date input, if you feel like not being random today
     month = 2
     day = 14
     year = 2018
-
     '''
 
     url = ""
